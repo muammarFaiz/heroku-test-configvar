@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "herokuconfigvars_test",
+  "version": "1.0.0",
+  "description": "test heroku configvars",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muammarFaiz/heroku-test-configvar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muammarFaiz/heroku-test-configvar/issues"
+  },
+  "homepage": "https://github.com/muammarFaiz/heroku-test-configvar#readme"
 }
